@@ -1,4 +1,5 @@
 /* Faça um programa para ler um nome, av1 e av2 */
+/* Adicionalmente o programa dara a média do aluno */
 
 
 #include <stdio.h>
