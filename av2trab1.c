@@ -41,7 +41,7 @@ scanf("%d", &destino);
      }
 
 printf("============================================================\n");
-printf("O preço da passagem e:\nR$ %.2f ou US$ %.2f\n", preco[origem-1][destino-1], (preco[origem-1][destino-1]*3.40));
+printf("O preço da passagem e:\nR$ %.2f ou US$ %.2f\n", preco[origem-1][destino-1], (preco[origem-1][destino-1]/3.40));
 printf("============================================================\n");
 
   
